@@ -12,7 +12,7 @@ use Random\RandomException;
  * UTF-8-aware helpers for working with integers & numeral systems (English ⇄ Persian),
  * plus a handful of convenience math utilities.
  *
- * @author  Your Name
+ * @author  DaigoX.com
  * @license MIT
  *
  * @psalm-immutable
