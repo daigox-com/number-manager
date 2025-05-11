@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Daigox\StringManager;
+namespace Daigox\NumberManager;
 
 use InvalidArgumentException;
 use Random\RandomException;
